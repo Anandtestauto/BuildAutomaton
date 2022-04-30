@@ -1,0 +1,2 @@
+# BuildAutomaton
+Jenkin details
